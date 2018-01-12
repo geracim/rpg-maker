@@ -1,6 +1,5 @@
 [
 null,
 {"id":1,"expanded":true,"name":"rebirth","order":1,"parentId":0,"scrollX":772,"scrollY":519.3333333333334},
-{"id":2,"expanded":true,"name":"Demon Castle","order":2,"parentId":1,"scrollX":1094,"scrollY":1296},
-{"id":3,"expanded":false,"name":"Demon Castle 1F","order":3,"parentId":2,"scrollX":1064,"scrollY":1776}
+{"id":2,"expanded":true,"name":"Demon Castle","order":2,"parentId":1,"scrollX":988,"scrollY":1234.5}
 ]
